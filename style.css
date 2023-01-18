@@ -489,4 +489,7 @@ footer {
         width: 120px;
     }
 
+    img {
+        max-height: 30vh;
+    }
 }
