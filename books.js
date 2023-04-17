@@ -51,7 +51,7 @@ function priceHTML(originalPrice, salePrice) {
 	}
 }
 
-function ratingsHTML(rating){
+function ratingsHTML(rating) {
 	let ratingHTML = "";
 
 	for(i = 0 ; i < Math.floor(rating); ++i){
